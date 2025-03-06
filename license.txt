@@ -1,0 +1,11 @@
+Model Information:
+* title:	Burger
+* source:	https://sketchfab.com/3d-models/burger-993d5b6b4b0b40c88c539a20fd66c3bd
+* author:	Kaletha's Craft (https://sketchfab.com/hgofficial)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Burger" (https://sketchfab.com/3d-models/burger-993d5b6b4b0b40c88c539a20fd66c3bd) by Kaletha's Craft (https://sketchfab.com/hgofficial) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
